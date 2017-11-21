@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Indiagate1</name>
+	<description><![CDATA[Created with <a href="http://sketchup.google.com/">Google SketchUp 6.0.515</a>]]></description>
+	<LookAt>
+		<longitude>77.23102848414492</longitude>
+		<latitude>28.61207869823446</latitude>
+		<altitude>70.5706936592577</altitude>
+		<heading>302.365</heading>
+		<tilt>76.18000000000001</tilt>
+		<range>289.6919193801995</range>
+	</LookAt>
+	<Folder>
+		<name>Tour</name>
+		<Placemark>
+			<name>Camera</name>
+			<LookAt>
+				<longitude>77.23102848414492</longitude>
+				<latitude>28.61207869823446</latitude>
+				<altitude>70.5706936592577</altitude>
+				<heading>302.365</heading>
+				<tilt>76.18000000000001</tilt>
+				<range>289.6919193801995</range>
+			</LookAt>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>Model</name>
+		<Style id="default">
+		</Style>
+		<Model id="model_1">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>77.22945060603</longitude>
+				<latitude>28.612954847376</latitude>
+				<altitude>0</altitude>
+			</Location>
+			<Orientation>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>1</x>
+				<y>1</y>
+				<z>1</z>
+			</Scale>
+			<Link>
+				<href>Indiagate1.dae</href>
+			</Link>
+			<ResourceMap>
+				<Alias>
+					<targetHref>Material1_1.jpg</targetHref>
+					<sourceHref>../images/Material1_1.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>Material1noCulling.jpg</targetHref>
+					<sourceHref>../images/Material1noCulling.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+	<DocumentSource>SketchUp</DocumentSource>
+</Folder>
+</kml>
