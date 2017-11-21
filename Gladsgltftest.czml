@@ -13,12 +13,12 @@
     }
   },
   {
-    "id":"Facility/Facility1",
+    "id":"Facility/Facility2",
     "availability":"2017-11-06T06:30:00Z/2017-11-07T06:30:00Z",
-    "name":"Facility1",
+    "name":"Facility2",
     "billboard":{
-      "show":false,
-      "image":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAJOgAACToAYJjBRwAAAUBSURBVHhe7dNbcuM4FETB3v+mZ9QzJ0LdYdqWLFIkgMxPPoGLql8Ap/jnTfodXE8ZvayWCe9R7obVNmAf5WpabRMeV3aW0/bhozJCGgurKw98oVGxis6dJzU+ZtU586LGySw6V3bWeBlV58jBGjej6Nx4s8bPVXVOnKzj4Co6Fy6m4+FMnQUX1THxbs2fQXRsHK15M6iOkSM0YwbXcbKnZsskOlZe1TyZVMfMTzRDJtdx84xmxyI6dr7TvFhUMWBLM2JxxYE/NRv4T7Hgt2YCfykea2sWsKmYrKkZwJeKy1raOzyk2KyhPcNTis/c2iv8SDGaU3uElxSnubQ32EWxmkN7gl0Vr7G1FzhEMRtTe4BDFbfxtH44VHEbS2uHtyh2Y2jN8FbF79paK5yiGF5X64RTFMNrao1wquJ4La0NLqFYXkNrgkspnudrPXApxfNcrQUuqZiep3XAJRXTc7QGuLTi+l79G4ZQbN+n/8IQiu179E8YSvE9Xv+DoRTfY/UvGFIxPk7/gSEV42P0Dxhacd5f34ehFed99W2YQrHeT9+FKRTrffRNmErxfl3fg6kU79f0LZhSMf+5vgNTKuY/13dgSsX8Z/oGTK24P6/3YWrF/Tm9C0so9o/rPVhCsX9c78ESiv1jegeWUvy/1/OwlOL/vZ6HpRT/r/UsLKkafK7nYEnV4HM9B0uqBp/rOVhSNdjWM7C06vBR92Fp1eGj7sPSqsNH3YelVYe/dQ+4qRZ3XQduqsVd14GbanHXdeCmWtx1HbipFnddB26qxV3XgZtq8b+uAX+oHgoCW6qHgsCW6qEgsKV6KAhsqR4KAluqh4LAluqhILCleigIbKkeCgJbqoeCwJbqoSCwpXooCGypHgoCW6qHgsCW6qEgsKV6KAhsqR4KAluqh4LAluqhILCleigIbKkeCgJbqoeCwJbqoSCwpXooCGypHgoCW6rH/7oG3FSLu64DN9XiruvATbW46zpwUy3uug7cVIu7rgM31eKu68BNtfhb92Bp1eGj7sPSqsNH3YelVYePug9Lqw7begaWVA0+13OwpGrwuZ6DJVWDz/UcLKkafK1nYSnF/3s9D0sp/t/reVhK8X9M78ASiv3jeg+WUOwf13uwhGL/nN6FqRX35/U+TK24P6/3YWrF/Wf6BkypmP9c34EpFfPX9C2YSvF+Xd+DqRTvffRNmEKx3k/fhSkU6331bRhacd5f34ehFedj9A8YUjE+Tv+BIRXjY/UvGErxPV7/g6EU3/fonzCEYvs+/ReGUGzfq3/DpRXXc7QGuKRiep7WAZdUTM/VWuBSiuf5Wg9cSvG8htYEl1Asr6W1wamK4zW1RjhFMbyu1gmnKIbX1lrhrYrfGFozvEWxG0trh0MVt/G0fjhUcRtTe4BDFLOxtRfYVfGaQ3uCXRSrubQ3eElxmlN7hB8pRnNrr/CU4rOG9gwPKTZrae/wpeKypmYAm4rJ2poF/KV48Fszgf8UC/7UbFhccWBLM2JRxYDvNC8W0bHzjGbH5DpufqIZMqmOmVc1TybRsbKnZsvgOk6O0IwZVMfI0Zo3g+jYeLfmz0V1TJyps+BiOh6uonPhZB0HV9U58WaNn1F0bhyscTOqzpGdNV5m0bnyosbJrDpnntT4WElnzxcaFSsrC6SxwEdlZDltHx5XdqbVNmEf5WpYbQPeo9xdVsuE6ymjh+t3AO/069e/gypHPjYK39AAAAAASUVORK5CYII=",
+      "show":true,
+      "image":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAJOgAACToAYJjBRwAAAAjSURBVChTYyAa/EcDUGEIgIphAKg0XRSAAFQMDqDChAADAwDC13+BJ+0oDwAAAABJRU5ErkJgggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
       "scale":1,
       "pixelOffset":{
         "cartesian2":[
@@ -34,13 +34,13 @@
       "verticalOrigin":"CENTER",
       "color":{
         "rgba":[
-          0,255,255,255
+          255,0,255,255
         ]
       }
     },
     "label":{
       "show":true,
-      "text":"Facility1",
+      "text":"Facility2",
       "font":"21pt Lucida Console",
       "style":"FILL_AND_OUTLINE",
       "scale":0.5,
@@ -53,7 +53,7 @@
       "verticalOrigin":"CENTER",
       "fillColor":{
         "rgba":[
-          0,255,255,255
+          255,0,255,255
         ]
       },
       "outlineColor":{
@@ -76,12 +76,12 @@
     },
     "position":{
       "cartesian":[
-        1512108.2771054448,5894453.799464814,1903980.8077218719
+        1216362.3755845337,-4736251.854574672,4081268.7230924983
       ]
     },
     "orientation":{
       "unitQuaternion":[
-        0.586767240893145,-0.07406283262722832,0.10097920445104604,-0.800013813697183
+        0.05294226904573068,-0.4189812364425721,0.899299129568797,-0.11363500875235126
       ]
     }
   }
